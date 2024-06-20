@@ -78,6 +78,7 @@
             this.button_Add.TabIndex = 3;
             this.button_Add.Text = "Nova Reserva";
             this.button_Add.UseVisualStyleBackColor = false;
+            this.button_Add.Click += new System.EventHandler(this.button_Add_Click);
             // 
             // button2
             // 
