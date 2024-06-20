@@ -16,5 +16,15 @@ namespace Sistema_do_HotelA3
         {
             InitializeComponent();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button_Buscar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

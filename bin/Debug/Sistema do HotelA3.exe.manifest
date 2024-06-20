@@ -126,14 +126,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sistema do HotelA3.exe" size="58824">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sistema do HotelA3.exe" size="60872">
       <assemblyIdentity name="Sistema do HotelA3" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>z7nnu3thDgaUZdohLiz/2jTQaT63uI01d0sJQr0VfcU=</dsig:DigestValue>
+        <dsig:DigestValue>eDpTCIq7Wbe74ZwwOruhpOdulMAKLPZ6lFHXlhX1kwU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -145,7 +145,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>bZIilEGpzdKGfEHxqvaZ0W9Wpmnz6WbaiikQ+A6eN6c=</dsig:DigestValue>
+        <dsig:DigestValue>D4vKs21ZLHx5HEYPyfqzT60FwRAJCIEhqxzQjeCrUME=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -41,22 +41,25 @@
             // 
             // button_Cadastro
             // 
+            this.button_Cadastro.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             resources.ApplyResources(this.button_Cadastro, "button_Cadastro");
             this.button_Cadastro.Name = "button_Cadastro";
-            this.button_Cadastro.UseVisualStyleBackColor = true;
+            this.button_Cadastro.UseVisualStyleBackColor = false;
             this.button_Cadastro.Click += new System.EventHandler(this.button_Cadastro_Click);
             // 
             // button_Lista
             // 
+            this.button_Lista.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             resources.ApplyResources(this.button_Lista, "button_Lista");
             this.button_Lista.Name = "button_Lista";
-            this.button_Lista.UseVisualStyleBackColor = true;
+            this.button_Lista.UseVisualStyleBackColor = false;
             this.button_Lista.Click += new System.EventHandler(this.button_Lista_Click);
             // 
             // Screen_Home
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.Controls.Add(this.button_Lista);
             this.Controls.Add(this.button_Cadastro);
             this.Controls.Add(this.Titulo_Home);
