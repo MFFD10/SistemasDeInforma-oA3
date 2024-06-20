@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Hotel
+namespace Sistema_do_HotelA3
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace Hotel
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmPrincipal());
+            Application.Run(new Screen_Home());
         }
     }
 }
