@@ -5,3 +5,12 @@ Este projeto implementa um sistema simples de reserva de hotel usando C# e MySQL
 
 
 
+Características
+Nova Reserva: Adiciona uma nova reserva ao banco de dados.
+Atualizar Reserva: Atualiza uma reserva existente no banco de dados.
+Excluir Reserva: Exclui uma reserva do banco de dados.
+
+Tecnologias Utilizadas
+C#
+MySQL
+Formulários do Windows (para MessageBoxes)
