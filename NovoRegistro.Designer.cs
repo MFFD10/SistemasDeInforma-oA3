@@ -144,6 +144,7 @@
             this.Forma_Pagamento.Name = "Forma_Pagamento";
             this.Forma_Pagamento.Size = new System.Drawing.Size(257, 29);
             this.Forma_Pagamento.TabIndex = 9;
+            this.Forma_Pagamento.Text = " Selecione aqui...";
             this.Forma_Pagamento.SelectedIndexChanged += new System.EventHandler(this.Forma_Pagamento_SelectedIndexChanged);
             // 
             // Screen_NovaReserva
